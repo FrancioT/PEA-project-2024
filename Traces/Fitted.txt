@@ -1,0 +1,6 @@
+All Erlangs with parameters:
+
+Trace_I:   k = 10,  lambda = 1.426582993935715 
+Trace_II:  k = 9,   lambda = 0.947120493799513
+Trace_III: k = 6,   lambda = 0.462514355593221
+Trace_IV:  k = 12,  lambda = 1.497892640271129
